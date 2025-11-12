@@ -21,7 +21,7 @@ Using the data file created above, both scripts score relevant species as either
 
 These methods are aligned with those published in [Challender *et al.* 2023](https://www.nature.com/articles/s41559-023-02115-8) with modifications necessary for standardised 'rules' rather than manual decision-making. They use a combination of categorical and free-text fields and are summarised, as implemented in the code, visually in the 'methods_visual' file and below as a two-step process. Keyword string searches in free text fields 
 
- Animals/fungi and plants follow the same method, but with some differences in keywords.
+ Animals and plants/fungi follow the same method, but with some differences in keywords.
 
 ### Pre-decision tree ---
 Species are classified as U, L or I without the need for a more comprehensive assessment if they meet one of the following:
