@@ -7,7 +7,7 @@ These methods apply a systematic and automated approach to the decision tree dev
 The process is structured into three scripts and a 'library' of keywords that are combined to search the free text fields of the Red List assessments. Methods and validation are summarised in [methods](https://github.com/AlyPavitt/RL_IntTradeThreat/blob/5207adb03f92d74fc2a5dbfcb23d298f4b0d45f5/Methods).
 
 # Related work and dataset
-Data outputs are accessible via Zenodo XXXX
+Data outputs are accessible via [Zenodo](https://zenodo.org/records/17582808) 
 
 Methods and results based on version 2025.2 of the IUCN Red List are published at CITES CoP20 Inf. Doc. XXXXX.
 
