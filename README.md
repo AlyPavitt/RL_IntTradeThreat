@@ -9,7 +9,7 @@ The process is structured into three scripts and a 'library' of keywords that ar
 # Related work and dataset
 Data outputs are accessible via [Zenodo](https://zenodo.org/records/17582808) 
 
-Methods and results based on version 2025.2 of the IUCN Red List are published at CITES CoP20 Inf. Doc. XXXXX.
+Methods and results based on version 2025.2 of the IUCN Red List are published at CITES [CoP20 Inf. Doc. 53](https://cites.org/sites/default/files/documents/E-CoP20-Inf-053.pdf)
 
 # Citation
 Pavitt A. (2025). Likelihood of species threat from international trade [R script]. Version 1.0. UNEP-WCMC. DOI: 10.5281/zenodo.17591184. *Developed from:* Challender *et al.* (2023). Identifying species likely threatened by international trade on the IUCN Red List can inform CITES trade measures. Nat Ecol Evol 7, 1211–1220. DOI: 10.1038/s41559-023-02115-8
